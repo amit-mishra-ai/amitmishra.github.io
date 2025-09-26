@@ -1,6 +1,6 @@
 # Amit Kumar Mishra  
 
-📍 Ballia, Uttar Pradesh | 📞 +91-8423852877  
+📍 Ballia, Uttar Pradesh 
 📧 [amitmishra64383@gmail.com](mailto:amitmishra64383@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amitmishra29)  
 
 ---
