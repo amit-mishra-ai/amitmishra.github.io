@@ -1,112 +1,99 @@
-# Amit Kumar Mishra – Data Analyst
+# 👋 Hi, I'm Amit Kumar Mishra – Data Analyst
+
+📍 Ballia, Uttar Pradesh, India  
+📊 Data Analyst | SQL • Python • Power BI • Snowflake • Microsoft Fabric  
+📫 Email: amitmishra64383@gmail.com    
 ---
 
-## About Me
+## 🚀 About Me
+I am a **Data Analyst** with hands-on experience turning raw data into meaningful business insights.  
+An **immediate joiner**, I bring strong analytical thinking, clear business communication, and practical experience across **SQL, Python, Power BI, Snowflake, and Microsoft Fabric**.
 
-I am a Data Analyst with hands-on experience in **SQL, Microsoft Fabric, Python, Excel, Power BI, and Snowflake**. I specialize in analyzing business data, identifying patterns, and converting insights into actionable recommendations that support decision-making.
-
-- Location: Ballia, Uttar Pradesh, India  
-- Education: Bachelor of Computer Applications (BCA)  
-- Role Interest: Data Analyst / Business Analyst / SQL Analyst  
-- Availability: Immediate Joiner  
-
----
-
-## Education
-
-**Harish Chandra P.G. College, Varanasi**  
-Bachelor of Computer Applications (Aug 2023 – Jun 2026)
-
-Key coursework includes:
-- Database Systems  
-- Computer Science  
-- Operations Management  
-- Programming Languages (C, C++, Java, SQL, HTML)
+I enjoy solving real-world problems using data — from identifying revenue leakage to optimizing budgets and improving operational efficiency.
 
 ---
 
-## Certifications
+## 🧠 Technical Skills
 
-- Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)  
-- Snowflake Hands-On Essentials: Data Warehousing Workshop  
-- Snowflake Hands-On Essentials: Collaboration and Cost Estimation  
-- SQL (Intermediate) – HackerRank  
-
----
-
-## Technical Skills
-
-### Programming and Querying
-- SQL (Joins, CTEs, Window Functions)
-- Python (NumPy, Pandas, Matplotlib, Seaborn)
-
-### Tools and Platforms
+### 🔧 Tools & Platforms
 - Microsoft Excel (Pivot Tables, Power Query)
-- Power BI
-- Tableau
-- PostgreSQL
-- Snowflake
+- Power BI, Tableau
+- Snowflake, Databricks
 - Microsoft Fabric
+- MySQL
 
-### Data Analytics Skills
-- Data Cleaning and Validation
+### 💻 Programming & Analytics
+- SQL (Advanced Queries, Joins, CTEs)
+- Python (Pandas, EDA)
+- DAX
+
+### 📈 Data Techniques
+- Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
-- KPI Analysis
 - Data Modeling
-- Data Visualization
 - ETL Pipelines
-- Business Reporting
+- Data Visualization & KPI Reporting
 
-### Soft Skills
+### 🤝 Soft Skills
 - Business Communication
+- Problem-Solving
 - Analytical Thinking
-- Problem Solving
 - Stakeholder Presentation
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
-### Thomas Cook India Limited  
-**Data Intern | Aug 2025 – Oct 2025**
-
-- Analyzed domestic and international travel package sales data to identify demand trends and growth opportunities.  
-- Supported data-driven sales strategies that contributed to a **30 percent increase in package sales**.
-
----
-
-## Projects
-
-### 1. Department Operation Analytics
-**Tools Used:** SQL, Microsoft Fabric, Power BI  
-
-- Analyzed operational spending, budget allocation, and project-level cost data.  
-- Identified over-budget departments and inefficient capital allocation.  
-- Highlighted financial risk areas using structured analysis.  
-- Recommended cost control and prioritization actions.  
-- Achieved a **7 percent to 12 percent improvement in budget efficiency** through continuous monitoring.
+### **Data Intern — Thomas Cook India Limited**  
+**Aug 2025 – Oct 2025**
+- Analyzed domestic and international travel package sales data to identify demand trends
+- Supported data-driven sales strategies contributing to a **30% increase in package sales**
+- Assisted stakeholders with insights for growth opportunities and performance tracking
 
 ---
 
-### 2. Zepto Sales Insights
-**Tools Used:** SQL  
+## 📊 Featured Projects
 
-- Analyzed product-level retail data related to pricing, discounts, inventory levels, and category performance.  
-- Identified revenue drivers and stock availability issues.  
-- Evaluated discount patterns and category contribution to sales.  
-- Provided pricing and replenishment recommendations.  
-- Supported an **8 percent to 12 percent improvement in sales performance**.
-
----
-
-### 3. Blinkit Retail Sales Analysis
-**Tools Used:** Power BI  
-
-- Analyzed grocery sales data across product categories, outlet type, store size, and location tier.  
-- Identified demand gaps and underperforming outlets.  
-- Evaluated category contribution and outlet-level performance.  
-- Recommended product placement and inventory planning actions.  
-- Achieved a **10 percent to 15 percent improvement in outlet sales and inventory usage**.
+### 🏥 **Pharmacy Sales & Profitability Analysis**
+**Tech:** Snowflake | Power BI  
+- Analyzed multi-country pharmacy sales and profitability data
+- Found **20–30% of regions generating over 60% of total revenue**
+- Identified **15–25% performance variance** between pharmacies in the same region
+- Discovered promoted sales delivered **10–18% lower value per unit**, supporting margin-focused decisions
 
 ---
 
+### 🧸 **E-Commerce Toy Store Sales Analysis**
+**Tech:** Python (Pandas, EDA)  
+- Analyzed customer funnel with **6.8% session-to-order conversion**
+- Identified **$1.3M revenue** with **$85K lost to refunds**
+- Highlighted refund-heavy SKUs and revenue leakage
+- Found higher LTV for returning customers and lower performance on mobile devices
+
+---
+
+### 🏢 **Department Operation Analytics**
+**Tech:** Microsoft Fabric | Power BI | SQL | DAX  
+- Built an end-to-end analytics solution for budget and operations monitoring
+- Identified over-budget departments and cost distribution patterns
+- Enabled proactive tracking that improved budget efficiency by **7–12%**
+- Delivered executive-ready dashboards with automated refresh
+
+---
+
+## 🎓 Education
+**Bachelor of Computer Application**  
+Harish Chandra P.G. College (2023 – 2026)  
+📌 Percentage: 70%
+
+---
+
+## 📜 Certifications
+- Microsoft Certified **Fabric Analytics Engineer** (Dec 2025)
+- **Databricks Fundamentals** (Jan 2026)
+- **Snowflake Hands-On Essentials: Data Warehousing Workshop** (Oct 2025)
+
+---
+
+
+⭐ *If you’re a recruiter or hiring manager, feel free to explore my projects or connect with me on LinkedIn.*
