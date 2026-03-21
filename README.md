@@ -84,7 +84,6 @@ I enjoy solving real-world problems using data — from identifying revenue leak
 ## 🎓 Education
 **Bachelor of Computer Application**  
 Harish Chandra P.G. College (2023 – 2026)  
-📌 Percentage: 70%
 
 ---
 
