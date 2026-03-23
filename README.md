@@ -1,98 +1,126 @@
-# 👋 Hi, I'm Amit Kumar Mishra – Data Analyst
+# Amit Kumar Mishra – Data Analyst
+
+Welcome to my GitHub profile!  
+I am a **Data Analyst** with hands-on experience in **SQL, Python, Power BI, and Microsoft Fabric**, focused on transforming raw data into meaningful business insights.
+
+I have worked on analytics projects involving **sales performance, operational analytics, and customer behavior analysis**, delivering measurable improvements ranging from **7% to 30%** across projects and internship work.
+
+---
+
+# Contact
 
 📍 Ballia, Uttar Pradesh, India  
-📊 Data Analyst | SQL • Python • Power BI • Snowflake • Microsoft Fabric  
-📫 Email: amitmishra64383@gmail.com    
----
+📧 Email: amitmishra64383@gmail.com  
+📞 Phone: +91-9839979503  
 
-## 🚀 About Me
-I am a **Data Analyst** with hands-on experience turning raw data into meaningful business insights.  
-An **immediate joiner**, I bring strong analytical thinking, clear business communication, and practical experience across **SQL, Python, Power BI, Snowflake, and Microsoft Fabric**.
-
-I enjoy solving real-world problems using data — from identifying revenue leakage to optimizing budgets and improving operational efficiency.
+🔗 Portfolio  : https://amit-mishra-ai.github.io/
 
 ---
 
-## 🧠 Technical Skills
+# Technical Skills
 
-### 🔧 Tools & Platforms
+### Tools & Technologies
 - Microsoft Excel (Pivot Tables, Power Query)
-- Power BI, Tableau
-- Snowflake, Databricks
+- Power BI
+- Looker Studio
+- PostgreSQL
+- Snowflake
+- Databricks
 - Microsoft Fabric
-- MySQL
+- AWS
 
-### 💻 Programming & Analytics
-- SQL (Advanced Queries, Joins, CTEs)
-- Python (Pandas, EDA)
+### Programming & Querying
+- SQL (Joins, CTEs, Advanced Queries)
+- Python
 - DAX
 
-### 📈 Data Techniques
-- Data Cleaning & Transformation
+### Data Analysis Techniques
+- Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Modeling
+- Data Visualization
 - ETL Pipelines
-- Data Visualization & KPI Reporting
+- Statistics
 
-### 🤝 Soft Skills
+### Soft Skills
 - Business Communication
-- Problem-Solving
 - Analytical Thinking
-- Stakeholder Presentation
+- Problem Solving
+- Presentation
 
 ---
 
-## 💼 Work Experience
+# Work Experience
 
-### **Data Intern — Thomas Cook India Limited**  
+## Data Analyst Associate Intern – Excelerate
+**Feb 2026 – Mar 2026**
+
+- Led a team to analyze Saint Louis University applicant data using **Python and SQL**.
+- Built an interactive **Looker Studio dashboard connected to PostgreSQL (Supabase)** to visualize program demand and intake trends.
+- Performed **SQL validation and aggregation** and presented insights to stakeholders to support admissions and recruitment strategy.
+
+---
+
+## Data Intern – Thomas Cook India Limited
 **Aug 2025 – Oct 2025**
-- Analyzed domestic and international travel package sales data to identify demand trends
-- Supported data-driven sales strategies contributing to a **30% increase in package sales**
-- Assisted stakeholders with insights for growth opportunities and performance tracking
+
+- Evaluated domestic and international travel sales data to identify booking trends and package performance.
+- Generated reports and insights that supported **pricing and campaign strategies**, contributing to a **30% increase in package sales**.
 
 ---
 
-## 📊 Featured Projects
+# Featured Projects
 
-### 🏥 **Pharmacy Sales & Profitability Analysis**
-**Tech:** Snowflake | Power BI  
-- Analyzed multi-country pharmacy sales and profitability data
-- Found **20–30% of regions generating over 60% of total revenue**
-- Identified **15–25% performance variance** between pharmacies in the same region
-- Discovered promoted sales delivered **10–18% lower value per unit**, supporting margin-focused decisions
+## Pharmacy Sales and Profitability Analysis
+**Tools:** Snowflake, Power BI
 
----
-
-### 🧸 **E-Commerce Toy Store Sales Analysis**
-**Tech:** Python (Pandas, EDA)  
-- Analyzed customer funnel with **6.8% session-to-order conversion**
-- Identified **$1.3M revenue** with **$85K lost to refunds**
-- Highlighted refund-heavy SKUs and revenue leakage
-- Found higher LTV for returning customers and lower performance on mobile devices
+- Evaluated multi-country pharmacy sales data to identify revenue concentration where **20–30% of regions generated over 60% of revenue**.
+- Assessed product mix and promotion performance, revealing **10–18% lower value per unit in promoted sales**.
 
 ---
 
-### 🏢 **Department Operation Analytics**
-**Tech:** Microsoft Fabric | Power BI | SQL | DAX  
-- Built an end-to-end analytics solution for budget and operations monitoring
-- Identified over-budget departments and cost distribution patterns
-- Enabled proactive tracking that improved budget efficiency by **7–12%**
-- Delivered executive-ready dashboards with automated refresh
+## E-Commerce Toy Store Sales Analysis
+**Tools:** Python (Pandas), EDA
+
+- Evaluated the customer funnel and identified a **6.8% session-to-order conversion rate**.
+- Discovered **$85K refund-related revenue leakage** from **$1.3M total sales**.
 
 ---
 
-## 🎓 Education
-**Bachelor of Computer Application**  
-Harish Chandra P.G. College (2023 – 2026)  
+## Department Operations Analytics Dashboard
+**Tools:** Microsoft Fabric, Power BI
+
+- Built an end-to-end analytics pipeline using **Lakehouse → Warehouse → Semantic Model → Power BI**.
+- Identified cost distribution patterns and improved **budget efficiency by 7–12%** through automated reporting.
 
 ---
 
-## 📜 Certifications
-- Microsoft Certified **Fabric Analytics Engineer** (Dec 2025)
-- **Databricks Fundamentals** (Jan 2026)
-- **Snowflake Hands-On Essentials: Data Warehousing Workshop** (Oct 2025)
+# Education
+
+**Bachelor of Computer Applications (BCA)**  
+Harish Chandra P.G. College  
+Aug 2023 – July 2026
 
 ---
 
+# Certifications
 
-⭐ *If you’re a recruiter or hiring manager, feel free to explore my projects or connect with me on LinkedIn.*
+- Microsoft Certified: Fabric Analytics Engineer – Microsoft
+- Databricks Fundamentals – Databricks
+- Fundamental on Analytics on AWS - Part 1
+- Fundamental on Analytics on AWS - Part 2
+- Snowflake Hands-On Essentials: Data Warehousing – Badge 1
+- Snowflake Collaboration, Marketplace & Cost Estimation - Badge 2
+- HackerRank SQL Advanced Certificate
+- Claude 101 - Anthropic
+- Deloitte Data Analytics Job Simulation
+- Tata Data Visualization - Empowering Business with Effective Insights
+
+
+---
+
+# Career Goal
+
+My goal is to work as a **Data Analyst** where I can apply data analysis, visualization, and business intelligence skills to support **data-driven decision making and operational improvements**.
+
+I am actively seeking **Data Analyst / Business Analyst roles** where I can contribute to solving real-world business problems using data.
