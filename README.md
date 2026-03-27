@@ -60,7 +60,7 @@ I have worked on analytics projects involving **sales performance, operational a
 - Performed **SQL validation and aggregation** and presented insights to stakeholders to support admissions and recruitment strategy.
 
 ---
-
+ 
 ## Data Intern – Thomas Cook India Limited
 **Aug 2025 – Oct 2025**
 
@@ -115,8 +115,6 @@ Aug 2023 – July 2026
 - Claude 101 - Anthropic
 - Deloitte Data Analytics Job Simulation
 - Tata Data Visualization - Empowering Business with Effective Insights
-
-
 ---
 
 # Career Goal
