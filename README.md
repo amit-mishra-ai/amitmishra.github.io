@@ -9,7 +9,7 @@ I have worked on analytics projects involving **sales performance, operational a
 
 # Contact
 
-📍 Ballia, Uttar Pradesh, India  
+📍 Varanasi, Uttar Pradesh, India  
 📧 Email: amitmishra64383@gmail.com  
 📞 Phone: +91-9839979503  
 
@@ -70,6 +70,12 @@ I have worked on analytics projects involving **sales performance, operational a
 ---
 
 # Featured Projects
+
+## Patient Diagnostics Analysis
+**Tool:** PowerBI
+- Built a 4-page clinical intelligence dashboard analyzing 10,000+ patient records across 8 fever types, engineering 40+ DAX measures including NLR (Neutrophil-Lymphocyte Ratio) for early sepsis detection, CRP-ESR quadrant analysis for inflammation classification, and platelet threshold alerts for Dengue hemorrhagic risk identification. Designed a star schema data model with advanced Power Query transformations, unpivoted symptom heatmaps, and synchronized cross-page slicers — enabling real-time risk stratification that identifies **31.2%** high-risk patients and predicts hospitalization with 65.8% admission rate accuracy. Delivered 7 clinically actionable insights including rash as the strongest admission predictor, blood cell differential fingerprinting for viral vs bacterial vs parasitic diagnosis, and geographic outbreak pattern detection across 6 Andhra Pradesh cities — directly supporting triage, ICU escalation, and public health response decisions.
+
+---
 
 ## Pharmacy Sales and Profitability Analysis
 **Tools:** Snowflake, Power BI
