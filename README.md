@@ -16,7 +16,7 @@ I have worked on analytics projects involving **sales performance, operational a
 🔗 Portfolio  : https://amit-mishra-ai.github.io/
 
 ---
-
+ 
 # Technical Skills
 
 ### Tools & Technologies
@@ -110,7 +110,7 @@ Aug 2023 – July 2026
 ---
 
 # Certifications
-
+    
 - Microsoft Certified: Fabric Analytics Engineer – Microsoft
 - Databricks Fundamentals – Databricks
 - Fundamental on Analytics on AWS - Part 1
