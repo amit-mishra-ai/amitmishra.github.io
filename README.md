@@ -5,8 +5,8 @@ I am a **Data Analyst** with hands-on experience in **SQL, Python, Power BI, and
 
 I have worked on analytics projects involving **sales performance, operational analytics, and customer behavior analysis**, delivering measurable improvements ranging from **7% to 30%** across projects and internship work.
 
----
-
+---  
+  
 # Contact    
 
 📍 Varanasi, Uttar Pradesh, India  
