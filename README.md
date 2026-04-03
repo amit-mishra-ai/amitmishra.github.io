@@ -109,7 +109,7 @@ Aug 2023 – July 2026
 
 ---
 
-# Certifications
+# Certifications 
     
 - Microsoft Certified: Fabric Analytics Engineer – Microsoft
 - Databricks Fundamentals – Databricks
@@ -119,6 +119,7 @@ Aug 2023 – July 2026
 - Snowflake Collaboration, Marketplace & Cost Estimation - Badge 2
 - HackerRank SQL Advanced Certificate
 - Claude 101 - Anthropic
+- Claude AI Fluency : Frameworks & Foundation 
 - Deloitte Data Analytics Job Simulation
 - Tata Data Visualization - Empowering Business with Effective Insights
 ---
