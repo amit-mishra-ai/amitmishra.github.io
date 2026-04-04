@@ -106,7 +106,7 @@ I have worked on analytics projects involving **sales performance, operational a
 **Bachelor of Computer Applications (BCA)**  
 Harish Chandra P.G. College  
 Aug 2023 – July 2026
-
+   
 ---
 
 # Certifications 
