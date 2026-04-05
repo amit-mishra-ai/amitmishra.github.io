@@ -100,7 +100,7 @@ I have worked on analytics projects involving **sales performance, operational a
 - Identified cost distribution patterns and improved **budget efficiency by 7–12%** through automated reporting.
 
 ---
-
+    
 # Education
 
 **Bachelor of Computer Applications (BCA)**  
