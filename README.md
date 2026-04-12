@@ -31,7 +31,7 @@ I have worked on analytics projects involving **sales performance, operational a
 
 ### Programming & Querying
 - SQL (Joins, CTEs, Advanced Queries)
-- Python
+- Python(Numpy, Pandas, Matplotlib, Seaborn)
 - DAX
 
 ### Data Analysis Techniques
