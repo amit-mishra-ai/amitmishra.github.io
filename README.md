@@ -1,5 +1,5 @@
 # Amit Kumar Mishra – Data Analyst
-
+  
 Welcome to my GitHub profile!  
 I am a **Data Analyst** with hands-on experience in **SQL, Python, Power BI, and Microsoft Fabric**, focused on transforming raw data into meaningful business insights.
 
